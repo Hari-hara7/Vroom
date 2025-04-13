@@ -1,32 +1,45 @@
-# Sales Management System
+# Project Name: Academic Pal
 
-Welcome to the Sales Management System! This is a web application built using **PHP**, **MySQL**, and **Tailwind CSS** for managing sales transactions. The app allows users to record sales, view the sales history, and delete records.
+![Logo](https://path-to-your-logo.png)
 
-## Features
+**Academic Pal** is a comprehensive platform designed to help students by providing academic resources such as notes, question papers, syllabus, and much more. It offers a user-friendly interface for easy access to essential academic content.
 
-- **Add a Sale**: Allows users to record a new sale by entering the customer's name, quantity, and unit price.
-- **Sales History**: View a list of all recorded sales, including customer name, quantity, unit price, and total price.
-- **Delete Sales**: Option to delete sales records from the system.
+---
 
-## Screenshots
+## 🛠️ Tech Stack
 
-### Sales Management Form
-![Sales Form Screenshot](https://via.placeholder.com/600x300.png)
+This project utilizes the following technologies:
 
-### Sales History
-![Sales History Screenshot](https://via.placeholder.com/600x300.png)
+- **Frontend**:
+  - HTML, CSS, and JavaScript
+  - **React.js** for building the user interface
+  - **Tailwind CSS** for styling
+  - **Three.js** for 3D animations
+  - **GSAP** for animation effects
+- **Backend**:
+  - **PHP** for server-side scripting
+  - **MySQL** for database management
+  - **Node.js** for certain API services
+- **Version Control**:
+  - **Git** and **GitHub** for version control and collaboration
 
-## Prerequisites
+---
 
-Before running the application, make sure you have the following:
+## 🚀 Features
 
-- **PHP** (version 7.4 or higher)
-- **MySQL** (for database management)
-- **Tailwind CSS** (for frontend styling)
-- Web server (e.g., Apache or Nginx)
+- **Notes Section**: Access and download academic notes by semester and branch.
+- **Past Question Papers**: Browse and download past exam papers.
+- **Syllabus**: Detailed syllabus for different courses.
+- **Question Banks**: Extensive question banks to practice.
+- **3D Animations**: A stunning 3D animated user interface using Three.js.
+- **Secure Login**: User authentication with secure login credentials.
 
-## Installation
+---
 
-### 1. Clone the repository
-```bash
+## 💻 Installation
 
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/academic-pal.git
