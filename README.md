@@ -2,17 +2,15 @@
 
 A web-based **Sales Management System** for managing sales records, employees, and automobiles. This project allows users to record sales, view the history of sales, and manage employees. It is built using PHP, MySQL, and Tailwind CSS for a clean and modern design.
 
-![Sales Management Logo](https://img.icons8.com/ios/50/000000/sales-performance.png)
-
 ## Tech Stack
 
-- **Frontend**: 
+- **Frontend**:
   - ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png) [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
   - ![Feather Icons](https://img.icons8.com/ios/50/000000/feather.png) [Feather Icons](https://feathericons.com/) - Simple and customizable icons.
-  
+
 - **Backend**:
   - ![PHP](https://img.icons8.com/ios/50/000000/php.png) [PHP](https://www.php.net/) - Server-side scripting language.
-  
+
 - **Database**:
   - ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) [MySQL](https://www.mysql.com/) - Relational database management system.
 
