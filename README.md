@@ -34,5 +34,5 @@ To get a local copy of the project, follow these steps:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sales-management-system.git
+git clone https://github.com/Hari-hara7/Vroom.git
 cd sales-management-system
