@@ -1,45 +1,40 @@
-# Project Name: Academic Pal
+# Sales Management System
 
-![Logo](https://path-to-your-logo.png)
+A web-based **Sales Management System** for managing sales records, employees, and automobiles. This project allows users to record sales, view the history of sales, and manage employees. It is built using PHP, MySQL, and Tailwind CSS for a clean and modern design.
 
-**Academic Pal** is a comprehensive platform designed to help students by providing academic resources such as notes, question papers, syllabus, and much more. It offers a user-friendly interface for easy access to essential academic content.
+![Sales Management Logo](https://img.icons8.com/ios/50/000000/sales-performance.png)
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
-
-This project utilizes the following technologies:
-
-- **Frontend**:
-  - HTML, CSS, and JavaScript
-  - **React.js** for building the user interface
-  - **Tailwind CSS** for styling
-  - **Three.js** for 3D animations
-  - **GSAP** for animation effects
+- **Frontend**: 
+  - ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png) [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
+  - ![Feather Icons](https://img.icons8.com/ios/50/000000/feather.png) [Feather Icons](https://feathericons.com/) - Simple and customizable icons.
+  
 - **Backend**:
-  - **PHP** for server-side scripting
-  - **MySQL** for database management
-  - **Node.js** for certain API services
-- **Version Control**:
-  - **Git** and **GitHub** for version control and collaboration
+  - ![PHP](https://img.icons8.com/ios/50/000000/php.png) [PHP](https://www.php.net/) - Server-side scripting language.
+  
+- **Database**:
+  - ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) [MySQL](https://www.mysql.com/) - Relational database management system.
 
----
+## Features
 
-## 🚀 Features
+- Add new sales records with customer details, quantity, unit price, and total price.
+- View a history of all recorded sales.
+- Delete sales records from the system.
+- Simple and intuitive UI built with **Tailwind CSS**.
 
-- **Notes Section**: Access and download academic notes by semester and branch.
-- **Past Question Papers**: Browse and download past exam papers.
-- **Syllabus**: Detailed syllabus for different courses.
-- **Question Banks**: Extensive question banks to practice.
-- **3D Animations**: A stunning 3D animated user interface using Three.js.
-- **Secure Login**: User authentication with secure login credentials.
+## Installation
 
----
+To get a local copy of the project, follow these steps:
 
-## 💻 Installation
+### Prerequisites
 
-To run the project locally, follow these steps:
+- [PHP](https://www.php.net/downloads) - Make sure PHP is installed on your system.
+- [MySQL](https://dev.mysql.com/downloads/) - Install MySQL server.
+- A web server (e.g., Apache or Nginx) with PHP support.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/academic-pal.git
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/sales-management-system.git
+cd sales-management-system
